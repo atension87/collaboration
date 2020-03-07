@@ -10,3 +10,5 @@ Create a script that completes the following tasks in someway:
 Modified: 
 * e.) Allow user to input the range of numbers to use.
 * f.) If a number is divisible by 3, 5 and 15, print "FizzBuzz - WOW!"
+
+WOW ! WOW ! WOW !
